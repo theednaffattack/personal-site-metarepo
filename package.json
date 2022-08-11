@@ -1,0 +1,14 @@
+{
+  "name": "personal-site-metarepo",
+  "version": "1.0.0",
+  "description": "Personal website for Eddie Naff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddie Naff",
+  "license": "ISC",
+  "devDependencies": {
+    "meta": "^2.2.25"
+  }
+}

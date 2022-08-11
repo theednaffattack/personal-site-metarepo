@@ -1,5 +1,5 @@
 {
   "projects": {
-    "frontend": "git@github.com:theednaffattack/personal-site-metarepo.git"
+    "frontend": "git@github.com:theednaffattack/personal-site-frontend.git"
   }
 }
